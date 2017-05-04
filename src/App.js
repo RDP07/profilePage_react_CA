@@ -3,6 +3,7 @@ import './App.css';
 
 var React = require('react');
 var ReactDOM = require('react-dom');
+var NavBar = require('./NavBar');
 
 
 var ProfilePage = React.createClass({
