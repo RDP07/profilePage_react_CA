@@ -19,3 +19,4 @@ var ProfilePage = React.createClass({
   }
 });
 
+ReactDOM.render(<ProfilePage />, document.getElementById('app'));
